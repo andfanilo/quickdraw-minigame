@@ -34,6 +34,10 @@ serve -s dist
 
 https://cli.vuejs.org/guide/deployment.html#previewing-locally
 
+### Deploy
+
+https://cli.vuejs.org/guide/deployment.html#pushing-updates-manually
+
 ### Run your tests
 
 ```
