@@ -69,3 +69,4 @@ Database will be automatically dropped when quitting the application.
 - [tfjs-vis](https://github.com/tensorflow/tfjs-vis)
 - [Pretrained models](https://github.com/jtheiner/SketchRecognition/tree/master/SketchRecognition/recognition/models/)
 - [18 Tips for Training your own TFJS Models in the Browser](https://itnext.io/18-tips-for-training-your-own-tensorflow-js-models-in-the-browser-3e40141c9091)
+- [Deploy your projects to Github Pages with GitHub Actions](https://dev.to/pierresaid/deploy-node-projects-to-github-pages-with-github-actions-4jco)
