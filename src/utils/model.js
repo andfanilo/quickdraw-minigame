@@ -1,8 +1,5 @@
 import * as tf from "@tensorflow/tfjs";
 import {
-  callAndCheck
-} from "@tensorflow/tfjs-core/dist/backends/webgl/webgl_util";
-import {
   openVisor,
   getFitCallbacks,
   showClassAccuracy,
